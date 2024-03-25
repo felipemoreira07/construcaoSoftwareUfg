@@ -10,6 +10,8 @@ API é um conjunto de regras que determinam como ocorrerá a comunicação entre
 
 <br/>
 
-<strong>Interface Uniforme:</strong> Um formato padrão para troca de informações, garantindo clareza e compreensão.
+<strong>Interface Uniforme:</strong>
+<br/>
+Um formato padrão para troca de informações, garantindo clareza e compreensão.
 A interface uniforme garante que os clientes e servidores sempre saibam como interpretar as informações que estão sendo trocadas.
 Isso torna a comunicação mais eficiente e evita erros de compreensão.
