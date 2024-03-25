@@ -1,4 +1,4 @@
-# :bookmark_tabs: Aprendendo sobre API REST
+# :green_book: Aprendendo sobre API REST
 
 <br>
 
